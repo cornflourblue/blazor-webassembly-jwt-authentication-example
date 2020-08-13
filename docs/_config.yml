@@ -1,0 +1,4 @@
+# required to work with github pages
+include:
+  - "_bin"
+  - "_framework"
